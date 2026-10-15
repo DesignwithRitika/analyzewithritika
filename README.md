@@ -1,25 +1,25 @@
 <h1 align="center">Hi🖐, I'm Ritika Rawat.</h1>
 
-<h4 align="center">I'm a passionate creative and analytical thinker who thrives on solving problems—whether through insightful data analysis or impactful visual design. I enjoy experimenting with tools and techniques across both domains, continuously learning to deliver clean, accurate, and visually engaging solutions that drive understanding and action.</h4>
+<h4 align="center"> Creative Graphic Designer & Video Editor with 1+ years of experience crafting visuals that connect brands with their audiences. My cross-industry experience spans healthcare, advocacy, fashion & apparel, travel & hospitality, interior design, podcasts, coaching, and civil engineering. Curious by nature and adaptable by design, I thrive in creative environments where ideas evolve, challenges inspire, and there’s always room to create something better.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=analyzewithritika&label=Profile%20views&color=0e75b6&style=flat" alt="Ritika Rawat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=designwithritika&label=Profile%20views&color=0e75b6&style=flat" alt="Ritika Rawat" /> </p>
 
-- 🌍 I'm from **Jhansi, Uttar pradesh.**
+- 🌍 Currently n **Bengaluru, Karnataka**
 
 
-- 👨‍💻 Currently working as a Data researcher Intern at [Collegedunia](https://collegedunia.com/)
+- 👨‍💻 I'm a Graphic Designer, Web Designer, and Video Editor
 
-- 💬 Ask me about **Python, Data and Business analysis**
+- 💬 Ask me about ** Graphic Design, branding, web design, and video editing **
 
-- 🔭 This is [My Portfolio](https://analyzewithritika.github.io/)
+- 🔭 This is [My Portfolio](https://drive.google.com/drive/folders/15cqme60FheL8wvd1vck4PB8LgxSycIRk?usp=drive_link)
   
-- 💼 This is [My LinkedIn Profile](https://www.linkedin.com/in/analyzewithritika/)
+- 💼 This is [My LinkedIn Profile](https://www.linkedin.com/in/designwithritika/)
 
-- 📄 This is [My Resume](https://docs.google.com/document/d/1AGsipL9wfkdcaGS3tqpGC5kcGDzhRM71/edit?usp=drive_link&ouid=107572833701526255063&rtpof=true&sd=true)
+- 📄 This is [My Resume](https://drive.google.com/file/d/1YB8eEGRMfuy6FUHQm1i_rdE9_HMFflqr/view?usp=drive_link)
 
 -  📫 How to reach me:   **rawatritika095@gmail.com**
 
-- 😃 My interest **Travel, Music and Dance**.
+- 😃 My interest **Design, Editting and Tech**.
 
 
 
@@ -30,7 +30,7 @@
 </div>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%231572B6.svg?style=for-the-badge&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Canva](https://img.shields.io/badge/canva-%23ffffff.svg?style=for-the-badge&logo=canva&logoColor=blue) ![Adobe](https://img.shields.io/badge/Adobe-%23ffffff.svg?style=for-the-badge&logo=Adobe&logoColor=black)
+![Canva](https://img.shields.io/badge/canva-%23ffffff.svg?style=for-the-badge&logo=canva&logoColor=blue) ![Adobe](https://img.shields.io/badge/Adobe-%23ffffff.svg?style=for-the-badge&logo=Adobe&logoColor=black)
 
 
 
